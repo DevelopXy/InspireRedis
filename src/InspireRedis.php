@@ -2,7 +2,9 @@
 
 namespace InspireRedis;
 
-
+/**
+ * redis字符串 哈希表
+ * */
 class InspireRedis
 {
     const HOST = '127.0.0.1';

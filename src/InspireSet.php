@@ -3,7 +3,9 @@
 
 namespace InspireRedis;
 
-
+/**
+ * redis集合
+ * */
 class InspireSet
 {
 

@@ -3,7 +3,9 @@
 
 namespace InspireRedis;
 
-
+/**
+ * redis有序集合
+ * */
 class InspireZset
 {
     const HOST = '127.0.0.1';

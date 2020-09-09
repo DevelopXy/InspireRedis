@@ -3,6 +3,9 @@
 
 namespace InspireRedis;
 
+/**
+ * redis消息订阅
+ * */
 
 class InspireSubscribe
 {

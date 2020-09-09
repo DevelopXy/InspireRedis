@@ -3,7 +3,9 @@
 
 namespace InspireRedis;
 
-
+/**
+ * redis列表
+ * */
 class InspireRedisList
 {
     const HOST = '127.0.0.1';
