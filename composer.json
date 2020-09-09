@@ -1,15 +1,20 @@
 {
     "name": "inspired/inspire-redis",
-    "description": "redis",
+    "description": "redis Expand the encapsulation",
+    "keywords": ["redis", "inspired"],
     "type": "library",
     "license": "MIT",
-    "minimum-stability": "dev",
     "require": {
         "php": ">=7.0.0"
     },
     "autoload": {
         "psr-4": {
             "InspireRedis\\": "src/"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.x-dev"
         }
     }
 }
